@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 12 20:58:12 2020
-
-@author: mpooc
-"""
 
 import numpy as np
 import math
